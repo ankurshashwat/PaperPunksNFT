@@ -1,13 +1,36 @@
-# Sample Hardhat Project
+# PaperPunksNFT
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+A Web 3.0 minting website for PaperPunksNFT
 
-Try running some of the following tasks:
+![PaperPunksNFTss](https://user-images.githubusercontent.com/109895243/187201565-b338ffe0-cf20-4a1d-a6c3-4f89aef98e5e.png)
 
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/ankurshashwat/CryptoNite-v1
 ```
+
+Install dependencies, you should have vitejs installed.
+
+```bash
+  $ npm create vite@latest
+```
+
+
+Go to the project directory
+
+```bash
+  cd PaperPunksNFT
+```
+
+
+
+Start the server
+
+```bash
+  npm run dev
+```
+
