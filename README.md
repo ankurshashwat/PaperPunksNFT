@@ -10,7 +10,7 @@ A Web 3.0 minting website for PaperPunksNFT
 Clone the project
 
 ```bash
-  git clone https://github.com/ankurshashwat/CryptoNite-v1
+  git clone https://github.com/ankurshashwat/PaperPunksNFT
 ```
 
 Install dependencies, you should have vitejs installed.
